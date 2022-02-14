@@ -1,0 +1,62 @@
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Transitions.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Transitions.pdb
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Transitions.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Transitions.pdb
+D:\Proyectos\ColaComun\Cliente\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+D:\Proyectos\ColaComun\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+D:\Proyectos\ColaComun\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Proyectos\ColaComun\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\Proyectos\ColaComun\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Proyectos\ColaComun\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+D:\Proyectos\ColaComun\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\Proyectos\ColaComun\Cliente\Cliente\obj\Debug\Cliente.pdb
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Google.Protobuf.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\K4os.Compression.LZ4.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\K4os.Hash.xxHash.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\MySql.Data.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\System.Buffers.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\System.Memory.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Ubiety.Dns.Core.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\ZstdNet.dll
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Google.Protobuf.pdb
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\Google.Protobuf.xml
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\K4os.Compression.LZ4.xml
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\K4os.Hash.xxHash.xml
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\MySql.Data.xml
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\System.Buffers.xml
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\System.Memory.xml
+D:\Proyectos\ColaComun\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
