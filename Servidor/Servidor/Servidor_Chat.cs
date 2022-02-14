@@ -35,6 +35,7 @@ namespace Servidor
         public void Inicio()
         {
             Console.WriteLine("Servidor Activado!");
+            Console.WriteLine(GetLocalIPAddress());
             server = new TcpListener(ipendpoint);
             server.Start();
 
@@ -85,6 +86,20 @@ namespace Servidor
                     break;
                 }
             } while (true);
+        }
+
+
+        public static string GetLocalIPAddress()
+        {
+            var host = Dns.GetHostEntry(Dns.GetHostName());
+            foreach (var ip in host.AddressList)
+            {
+                if (ip.AddressFamily == AddressFamily.InterNetwork)
+                {
+                    return ip.ToString();
+                }
+            }
+            throw new Exception("No se encontro la IPV4");
         }
     }
 }

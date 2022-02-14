@@ -21,6 +21,13 @@ namespace Cliente
             conexionBD = new MySqlConnection(cadenaConexion);
         }
 
+        public Conexion(string ip)
+        {
+            //cadenaConexion = ConfigurationManager.ConnectionStrings["StringConexion"].ConnectionString;
+            cadenaConexion = "server="+ip+";port=3306;user id=root;password=password;database=testeocolas";
+            conexionBD = new MySqlConnection(cadenaConexion);
+        }
+
 
         public Conexion(string server, string port, string user, string pass, string db)
         {

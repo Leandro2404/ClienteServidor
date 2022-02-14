@@ -20,7 +20,7 @@ namespace Cliente
     public partial class Form1 : Form
     {
         
-        Conexion c = new Conexion();
+        Conexion c;
 
         static private NetworkStream stream;
         static private StreamWriter streamw;
@@ -76,9 +76,14 @@ namespace Cliente
         {
             try
             {
-                client.Connect("127.0.0.1", 8000);
+                client.Connect(textBoxIP.Text, 8000);
                 if(client.Connected)
                 {
+                    if(textBoxIP.Text == "127.0.0.1")
+                        c = new Conexion("localhost");
+                    else
+                        c = new Conexion(textBoxIP.Text);
+                    
                     Thread t = new Thread(Listen);
                     t.IsBackground = true;
 
@@ -110,13 +115,15 @@ namespace Cliente
 
         private void btnConectar_Click(object sender, EventArgs e)
         {
-            dataGridView1.DataSource = c.QuerySelect();
-            FormatoGrid();
-            dataGridView1.ClearSelection();
+            
 
             nick = txtUsuario.Text;
             if (Conectar())
             {
+
+                dataGridView1.DataSource = c.QuerySelect();
+                FormatoGrid();
+                dataGridView1.ClearSelection();
                 //panel3.Visible = false;
                 //panel1.Visible = true;
                 //panel2.Visible = true;

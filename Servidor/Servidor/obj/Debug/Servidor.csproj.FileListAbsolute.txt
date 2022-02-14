@@ -16,3 +16,10 @@ C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\obj\Debug\
 C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe
 C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.pdb
 C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+D:\Proyectos\ColaComun\Servidor\Servidor\bin\Debug\Servidor.exe.config
+D:\Proyectos\ColaComun\Servidor\Servidor\bin\Debug\Servidor.exe
+D:\Proyectos\ColaComun\Servidor\Servidor\bin\Debug\Servidor.pdb
+D:\Proyectos\ColaComun\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+D:\Proyectos\ColaComun\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+D:\Proyectos\ColaComun\Servidor\Servidor\obj\Debug\Servidor.exe
+D:\Proyectos\ColaComun\Servidor\Servidor\obj\Debug\Servidor.pdb
